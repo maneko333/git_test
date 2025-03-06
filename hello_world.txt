@@ -1,1 +1,2 @@
 lil git test for odin :3
+testing pushing from terminal.
